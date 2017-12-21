@@ -11,7 +11,7 @@
           "moved": false
         },
         {
-          "w": 4,
+          "w": 3,
           "h": 2,
           "x": 3,
           "y": 0,
@@ -51,7 +51,7 @@
           "moved": false
         },
         {
-          "w": 4,
+          "w": 3,
           "h": 8,
           "x": 3,
           "y": 2,
@@ -59,17 +59,17 @@
           "moved": false
         },
         {
-          "w": 2,
+          "w": 3,
           "h": 2,
-          "x": 7,
+          "x": 6,
           "y": 0,
           "i": "11",
           "moved": false
         },
         {
-          "w": 2,
+          "w": 3,
           "h": 2,
-          "x": 7,
+          "x": 6,
           "y": 2,
           "i": "12",
           "moved": false
@@ -144,7 +144,7 @@
             "sourceId": "kplexOutput.GP",
             "key": "kplexOutput.GP.navigation.datetime",
             "path": "navigation.datetime",
-            "active": false,
+            "active": true,
             "selectedWidget": 0
           }
         },
