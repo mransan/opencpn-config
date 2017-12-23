@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+  <wpt lat="40.793853333" lon="-73.857570000">
+    <time>2017-12-23T16:03:00Z</time>
+    <name>FB-Entrance</name>
+    <desc>Entrance of Flushing Bay</desc>
+    <sym>square</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>44ec43f0-1443-4c49-a705-8f0a67232848</opencpn:guid>
+      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:shared>1</opencpn:shared>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+    </extensions>
+  </wpt>
+</gpx>
