@@ -1,0 +1,348 @@
+{
+  "pages": [
+    {
+      "layout": [
+        {
+          "w": 2,
+          "h": 2,
+          "x": 0,
+          "y": 8,
+          "i": "0",
+          "moved": false
+        },
+        {
+          "w": 2,
+          "h": 4,
+          "x": 0,
+          "y": 2,
+          "i": "2",
+          "moved": false
+        },
+        {
+          "w": 2,
+          "h": 1,
+          "x": 0,
+          "y": 7,
+          "i": "3",
+          "moved": false
+        },
+        {
+          "w": 2,
+          "h": 1,
+          "x": 0,
+          "y": 6,
+          "i": "8",
+          "moved": false
+        },
+        {
+          "w": 2,
+          "h": 2,
+          "x": 0,
+          "y": 0,
+          "i": "9",
+          "moved": false
+        }
+      ],
+      "widgets": [
+        {
+          "type": "digitalposition",
+          "options": {
+            "sourceId": "kplexOutput.XX",
+            "key": "kplexOutput.XX.navigation.position",
+            "path": "navigation.position",
+            "active": true
+          }
+        },
+        {
+          "type": "universal",
+          "options": {
+            "sourceId": "kplexOutput.XX",
+            "key": "kplexOutput.XX.navigation.gnss",
+            "path": "navigation.gnss",
+            "active": false,
+            "selectedWidget": 0
+          }
+        },
+        {
+          "type": "compass",
+          "options": {
+            "sourceId": "no_source",
+            "key": "no_source.navigation.headingMagnetic",
+            "path": "navigation.headingMagnetic",
+            "active": true,
+            "initialDimensions": {
+              "w": 2,
+              "h": 4
+            },
+            "selectedWidget": 0
+          }
+        },
+        {
+          "type": "universal",
+          "options": {
+            "sourceId": "no_source",
+            "key": "no_source.navigation.attitude.roll",
+            "path": "navigation.attitude.roll",
+            "active": true,
+            "selectedWidget": 0
+          }
+        },
+        {
+          "type": "universal",
+          "options": {
+            "sourceId": "no_source",
+            "key": "no_source.environment.outside.pressure",
+            "path": "environment.outside.pressure",
+            "active": false,
+            "selectedWidget": 0,
+            "convertTo": "hPa"
+          }
+        },
+        {
+          "type": "universal",
+          "options": {
+            "sourceId": "no_source",
+            "key": "no_source.environment.inside.temperature",
+            "path": "environment.inside.temperature",
+            "active": false,
+            "selectedWidget": 0,
+            "convertTo": "C"
+          }
+        },
+        {
+          "type": "universal",
+          "options": {
+            "sourceId": "no_source",
+            "key": "no_source.environment.inside.humidity",
+            "path": "environment.inside.humidity",
+            "active": false,
+            "selectedWidget": 0
+          }
+        },
+        {
+          "type": "digitalposition",
+          "options": {
+            "sourceId": "kplexOutput.GP",
+            "key": "kplexOutput.GP.navigation.position",
+            "path": "navigation.position",
+            "active": false
+          }
+        },
+        {
+          "type": "compass",
+          "options": {
+            "sourceId": "kplexOutput.GP",
+            "key": "kplexOutput.GP.navigation.courseOverGroundTrue",
+            "path": "navigation.courseOverGroundTrue",
+            "active": true,
+            "initialDimensions": {
+              "w": 2,
+              "h": 4
+            },
+            "selectedWidget": 2
+          }
+        },
+        {
+          "type": "universal",
+          "options": {
+            "sourceId": "kplexOutput.GP",
+            "key": "kplexOutput.GP.navigation.speedOverGround",
+            "path": "navigation.speedOverGround",
+            "active": true,
+            "selectedWidget": 0
+          }
+        },
+        {
+          "type": "universal",
+          "options": {
+            "sourceId": "kplexOutput.GP",
+            "key": "kplexOutput.GP.navigation.datetime",
+            "path": "navigation.datetime",
+            "active": false,
+            "selectedWidget": 0
+          }
+        },
+        {
+          "type": "universal",
+          "options": {
+            "sourceId": "kplexOutput.GP",
+            "key": "kplexOutput.GP.navigation.magneticVariation",
+            "path": "navigation.magneticVariation",
+            "active": false,
+            "selectedWidget": 0
+          }
+        }
+      ],
+      "knownKeys": {}
+    },
+    {
+      "layout": [
+        {
+          "w": 2,
+          "h": 2,
+          "x": 0,
+          "y": 4,
+          "i": "4",
+          "moved": false
+        },
+        {
+          "w": 2,
+          "h": 2,
+          "x": 0,
+          "y": 2,
+          "i": "5",
+          "moved": false
+        },
+        {
+          "w": 2,
+          "h": 2,
+          "x": 0,
+          "y": 0,
+          "i": "6",
+          "moved": false
+        },
+        {
+          "w": 2,
+          "h": 1,
+          "x": 0,
+          "y": 6,
+          "i": "10",
+          "moved": false
+        }
+      ],
+      "widgets": [
+        {
+          "type": "compass",
+          "options": {
+            "sourceId": "no_source",
+            "key": "no_source.navigation.headingMagnetic",
+            "path": "navigation.headingMagnetic",
+            "active": false,
+            "initialDimensions": {
+              "w": 2,
+              "h": 4
+            },
+            "selectedWidget": 0
+          }
+        },
+        {
+          "type": "universal",
+          "options": {
+            "sourceId": "no_source",
+            "key": "no_source.navigation.attitude.roll",
+            "path": "navigation.attitude.roll",
+            "active": false,
+            "selectedWidget": 0
+          }
+        },
+        {
+          "type": "digitalposition",
+          "options": {
+            "sourceId": "kplexOutput.XX",
+            "key": "kplexOutput.XX.navigation.position",
+            "path": "navigation.position",
+            "active": false
+          }
+        },
+        {
+          "type": "universal",
+          "options": {
+            "sourceId": "kplexOutput.XX",
+            "key": "kplexOutput.XX.navigation.gnss",
+            "path": "navigation.gnss",
+            "active": false,
+            "selectedWidget": 0
+          }
+        },
+        {
+          "type": "universal",
+          "options": {
+            "sourceId": "no_source",
+            "key": "no_source.environment.outside.pressure",
+            "path": "environment.outside.pressure",
+            "active": true,
+            "selectedWidget": 0,
+            "convertTo": "hPa"
+          }
+        },
+        {
+          "type": "universal",
+          "options": {
+            "sourceId": "no_source",
+            "key": "no_source.environment.inside.temperature",
+            "path": "environment.inside.temperature",
+            "active": true,
+            "selectedWidget": 1,
+            "convertTo": "C",
+            "redLine": 30,
+            "maxValue": 40
+          }
+        },
+        {
+          "type": "universal",
+          "options": {
+            "sourceId": "no_source",
+            "key": "no_source.environment.inside.humidity",
+            "path": "environment.inside.humidity",
+            "active": true,
+            "selectedWidget": 0
+          }
+        },
+        {
+          "type": "digitalposition",
+          "options": {
+            "sourceId": "kplexOutput.GP",
+            "key": "kplexOutput.GP.navigation.position",
+            "path": "navigation.position",
+            "active": false
+          }
+        },
+        {
+          "type": "compass",
+          "options": {
+            "sourceId": "kplexOutput.GP",
+            "key": "kplexOutput.GP.navigation.courseOverGroundTrue",
+            "path": "navigation.courseOverGroundTrue",
+            "active": false,
+            "initialDimensions": {
+              "w": 2,
+              "h": 4
+            },
+            "selectedWidget": 0
+          }
+        },
+        {
+          "type": "universal",
+          "options": {
+            "sourceId": "kplexOutput.GP",
+            "key": "kplexOutput.GP.navigation.speedOverGround",
+            "path": "navigation.speedOverGround",
+            "active": false,
+            "selectedWidget": 0
+          }
+        },
+        {
+          "type": "universal",
+          "options": {
+            "sourceId": "kplexOutput.GP",
+            "key": "kplexOutput.GP.navigation.datetime",
+            "path": "navigation.datetime",
+            "active": true,
+            "selectedWidget": 0
+          }
+        },
+        {
+          "type": "universal",
+          "options": {
+            "sourceId": "kplexOutput.GP",
+            "key": "kplexOutput.GP.navigation.magneticVariation",
+            "path": "navigation.magneticVariation",
+            "active": false,
+            "selectedWidget": 0
+          }
+        }
+      ],
+      "knownKeys": {}
+    }
+  ]
+}
