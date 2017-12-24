@@ -5,6 +5,8 @@
     <extensions>
       <opencpn:guid>661a3dd6-c76a-4eb7-9f98-b67936327e2d</opencpn:guid>
       <opencpn:viz>1</opencpn:viz>
+      <opencpn:start>Flushing Bay Dock</opencpn:start>
+      <opencpn:end>Flushing Bay Entrance</opencpn:end>
       <opencpn:planned_speed>3.50</opencpn:planned_speed>
       <opencpn:time_display>PC</opencpn:time_display>
     </extensions>

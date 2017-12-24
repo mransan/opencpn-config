@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+  <rte>
+    <name>FB-Entrance_TN</name>
+    <extensions>
+      <opencpn:guid>7e4ddf82-b104-4eff-835c-fe6b1e0294f7</opencpn:guid>
+      <opencpn:viz>1</opencpn:viz>
+      <opencpn:start>Flushing Bay Entrance</opencpn:start>
+      <opencpn:end>Throgs Neck</opencpn:end>
+      <opencpn:planned_speed>3.50</opencpn:planned_speed>
+      <opencpn:time_display>PC</opencpn:time_display>
+    </extensions>
+    <rtept lat="40.793853333" lon="-73.857570000">
+      <time>2017-12-23T16:03:00Z</time>
+      <name>FB-Entrance</name>
+      <desc>Entrance of Flushing Bay</desc>
+      <sym>square</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>44ec43f0-1443-4c49-a705-8f0a67232848</opencpn:guid>
+        <opencpn:viz_name>1</opencpn:viz_name>
+        <opencpn:shared>1</opencpn:shared>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+    <rtept lat="40.798603333" lon="-73.852526667">
+      <time>2017-12-24T13:36:33Z</time>
+      <name>College-Point-Light-01</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>54a3f705-99fd-440e-b27d-d0920a0c1226</opencpn:guid>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+    <rtept lat="40.799135000" lon="-73.851741667">
+      <time>2017-12-24T13:35:31Z</time>
+      <name>College-Point-Light-02</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>4eb0d33d-2f96-417c-9435-2a9e411b937a</opencpn:guid>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+    <rtept lat="40.800718333" lon="-73.829035000">
+      <time>2017-12-24T13:34:19Z</time>
+      <name>Whitestone-Bridge-01</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>71c717a9-e79f-4154-a0aa-8ea506ef71c2</opencpn:guid>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+    <rtept lat="40.802993333" lon="-73.819851667">
+      <time>2017-12-24T13:34:21Z</time>
+      <name>Whitestone-Buoy-01</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>2487401e-d730-4526-94ea-bc197fe6e95b</opencpn:guid>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+    <rtept lat="40.800505000" lon="-73.805641667">
+      <time>2017-12-24T13:34:22Z</time>
+      <name>Whitestone-Bay-01</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>1b846b19-064a-4701-99ab-965e6ca07da9</opencpn:guid>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+    <rtept lat="40.798613333" lon="-73.793593333">
+      <time>2017-12-24T13:40:04Z</time>
+      <name>Throgs-Neck-Bridge-01</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>6e8198b3-df2b-4ef4-ab9b-3848612f78b1</opencpn:guid>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+    <rtept lat="40.798525147" lon="-73.785113823">
+      <time>2017-12-24T13:40:29Z</time>
+      <name>Throgs-Neck-Bridge-02</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>2944d68e-9fc3-4b99-8f1d-155b4f4538e8</opencpn:guid>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+    <rtept lat="40.802780324" lon="-73.777979305">
+      <time>2017-12-24T13:32:00Z</time>
+      <name>ThrogsNeck</name>
+      <desc>Throgs Neck Bridge. Entrance of the City Island Bay</desc>
+      <sym>square</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>7cc3ee08-1001-4d5b-b951-323212b7022c</opencpn:guid>
+        <opencpn:viz_name>1</opencpn:viz_name>
+        <opencpn:shared>1</opencpn:shared>
+        <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+        <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      </extensions>
+    </rtept>
+  </rte>
+</gpx>
